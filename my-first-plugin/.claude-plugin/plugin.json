@@ -1,0 +1,5 @@
+{
+  "name": "my-first-plugin",
+  "description": "A starter Claude Code plugin scaffold with a single example slash command.",
+  "version": "0.1.0"
+}
